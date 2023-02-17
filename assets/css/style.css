@@ -164,7 +164,7 @@ footer a {
     margin-bottom: 80px;
 }
 
-.steps img {
+.steps svg {
     width: 15%;
     margin: 10px 0;
 }
@@ -178,4 +178,8 @@ footer a {
 .steps p {
     color: #39a6b2;
     font-size: 23px;
+}
+
+.steps span {
+    font-size: 38px;
 }
