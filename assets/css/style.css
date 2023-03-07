@@ -360,12 +360,12 @@ header nav ul li a:hover {
 
 .trainer-img::after {
     content: "";
-    height: 100%;
-    width: 100%;
+    height: 80%;
+    width: 70%;
     background: rgba(252, 225, 56, 0.3);
     position: absolute;
-    top: 0;
-    left: 0;
+    top: auto;
+    left: 122px;
 }
 
 .trainer-bio {
